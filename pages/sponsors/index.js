@@ -23,9 +23,9 @@ const Sponsors = () => (
       <div className='container' style={{ maxWidth: '680px' }}>
         <div className='row'>
           <div className='col'>
-            <p>roadmap.sh and <StrongLink href='https://github.com/kamranahmedse/developer-roadmap' target='_blank'>developer-roadmap</StrongLink> are the #1 place for developers to get the idea about the tech landscape, find out the what they are missing, get the ideas about how and what to learn and stay up to date.</p>
+            <p><StrongLink href='https://github.com/artyomdev/developer.guide' target='_blank'>Developer.guide</StrongLink> is the #1 place for developers to get the idea about the tech landscape, find out the what they are missing, get the ideas about how and what to learn and stay up to date.</p>
 
-            <p>The roadmap.sh audience consists of over <strong>300,000</strong> developers who visit the site an average of <strong>150,000</strong> times per month. They're developers of all seniority levels and domains including frontend, backend, fullstack, web and mobile, engineering managers, product managers and CTOs.</p>
+            <p>The developer.guide audience consists of over <strong>300,000</strong> developers who visit the site an average of <strong>150,000</strong> times per month. They're developers of all seniority levels and domains including frontend, backend, fullstack, web and mobile, engineering managers, product managers and CTOs.</p>
 
             <p className='mb-5 pb-1'>Email <StrongLink href='mailto:kamran@roadmap.sh?subject=Sponsoring Roadmap.sh'>kamran@roadmap.sh</StrongLink> to get in touch about connecting with your potential customers!</p>
 
