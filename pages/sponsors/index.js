@@ -29,7 +29,6 @@ const Sponsors = () => (
 
             <p>Depending on your product or service, your budget, and your goals, there are several options to choose from when advertising on developer.guide and <StrongLink href='https://github.com/artyomdev/developer.guide' target='_blank'>developer.guide</StrongLink></p>
 
-            <h2><StrongLink href='mailto:kamran@developer.guide?subject=Sponsoring developer.guide'>Newsletter Promo</StrongLink></h2>
             <p>Drive a quick burst of traffic</p>
             <ul>
               <li>Appear in the monthly email newsletter delivered to <strong>13000+</strong> subscribers.</li>
@@ -44,15 +43,14 @@ const Sponsors = () => (
               <li>You will be mentioned and thanked in the monthly newsletter sent to 13000+ subscribers.</li>
               <li>Your will be added as a sponsor to the footer of <StrongLink href="https://github.com/artyomdev/developer.guide" target="_blank">GitHub Project</StrongLink></li>
               <li>Costs <Mark>500$ per week</Mark></li>
-              <li>On website there are <strong>2000 unique sessions daily</strong> on average. An average user spends around 3 minutes on the website after landing and the bounce rate is pretty low (2.76% at the moment) so it is a great option to get your product in front of more and more eyes.</li>
-              <li><StrongLink href="https://github.com/artyomdev/developer.guide" target="_blank">Github repository</StrongLink> gets around <strong>5000 visits</strong> per day</li>
+              <li><StrongLink href="https://github.com/artyomdev/developer.guide" target="_blank">Github repository</StrongLink> gets around </li>
             </ul>
 
             <h2><StrongLink href='mailto:kamran@developer.guide?subject=Sponsoring developer.guide'>Partner Package</StrongLink></h2>
             <p>High continuous traffic for a month</p>
             <ul>
               <li>A banner will be added to the top of the website</li>
-              <li>Sponsor reference will be added to the roadmap images and PDFs for the sponsorship period. It will stay with people who download/print them for that period</li>
+              <li>Sponsor reference will be added to the guide images and PDFs for the sponsorship period. It will stay with people who download/print them for that period</li>
               <li>You will be added as a sponsor to the header of <StrongLink href="https://github.com/artyomdev/developer.guide">the repository</StrongLink></li>
               <li>You will be mentioned in the monthly email sent to <strong>13000+ subscribers</strong></li>
               <li>Costs <Mark>3000$ per month</Mark></li>
