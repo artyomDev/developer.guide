@@ -36,7 +36,7 @@ const Sponsors = () => (
               <li>Appears as a link with 2 lines of supporting text beneath.</li>
             </ul>
 
-            <h2><StrongLink href='mailto:www0327333@gmail.com?subject=Sponsoring developer.guide'>Everywhere Package</StrongLink></h2>
+            <h2><StrongLink href='mailto:www0327333@gmail.com'>Everywhere Package</StrongLink></h2>
             <p>Higher traffic and get in front of more eyes</p>
             <ul>
               <li>Shown as a bold sticky banner on the top of the website on all the pages.</li>
@@ -46,7 +46,7 @@ const Sponsors = () => (
               <li><StrongLink href="https://github.com/artyomdev/developer.guide" target="_blank">Github repository</StrongLink> gets around </li>
             </ul>
 
-            <h2><StrongLink href='mailto:www0327333@gmail.com?subject=Sponsoring developer.guide'>Partner Package</StrongLink></h2>
+            <h2><StrongLink href='mailto:www0327333@gmail.com'>Partner Package</StrongLink></h2>
             <p>High continuous traffic for a month</p>
             <ul>
               <li>A banner will be added to the top of the website</li>
@@ -57,7 +57,7 @@ const Sponsors = () => (
             </ul>
 
             <p>High volume (monthly or quarterly) discounts are available for all packages, and I can do customized advertising packages as well.</p>
-            <p>— Artem (<StrongLink href='mailto:www0327333@gmail.com?subject=Sponsoring developer.guide'>www0327333@gmail.com</StrongLink>)</p>
+            <p>— Artem (<StrongLink href='mailto:www0327333@gmail.com'>www0327333@gmail.com</StrongLink>)</p>
           </div>
         </div>
       </div>
