@@ -6,13 +6,13 @@ import Helmet from 'components/helmet';
 
 const Privacy = () => (
   <DefaultLayout>
-    <Helmet  title={'Privacy Policy - roadmap.sh'} />
+    <Helmet  title={'Privacy Policy - developer.guide'} />
     <TosPage>
       <SiteNav />
       <div className="bg-light border-top privacy-wrap">
         <div className="container pt-5 pb-5">
           <h1 className='font-weight-bold mb-3'>Privacy Policy</h1>
-          <p>By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Remember that your use of roadmap.sh’s Services is at all times subject to the <a
+          <p>By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Remember that your use of developer.guide’s Services is at all times subject to the <a
             href="/terms">Terms of Use</a>, which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the Terms of Use.</p>
 
           <h2>What does this Privacy Policy cover?</h2>
@@ -21,22 +21,22 @@ const Privacy = () => (
             services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below.</p>
           <p>As noted in the Terms of Use, we do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under
             age
-            13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at <a href="mailto:kamran@roadmap.sh">kamran@roadmap.sh</a>.</p>
+            13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at <a href="mailto:kamran@developer.guide">kamran@developer.guide</a>.</p>
 
-          <h2>Will roadmap.sh ever change this Privacy Policy?</h2>
+          <h2>Will developer.guide ever change this Privacy Policy?</h2>
           <p>We’re constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by updating the services on the website, placing a notice on the Services, by sending you an email, and/or by some other means. Please note that if you’ve opted not to
             receive
             legal notice emails from us (or you haven’t provided us with your email address), those legal notices will still govern your use of the Services, and you are still responsible for reading and understanding them. If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the
             changes. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used or collected.</p>
 
-          <h2>What Information does roadmap.sh Collect?</h2>
+          <h2>What Information does developer.guide Collect?</h2>
           <p>Information You Provide to Us:</p>
           <p>We receive and store any information you knowingly provide to us. For example, through the registration process and/or through your account settings, we may collect Personal Information such as your name, title, email address, phone number, and third-party account credentials (for example, your log-in credentials for Twitter
             or
             other third party sites. If you provide your third-party account credentials to us or otherwise sign in to the Services through a third party site or service, you understand some content and/or information in those accounts (“Third Party Account Information”) may be transmitted into your account with us if you authorize such
             transmissions], and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy. Certain information may be required to register with us or to take advantage of some of our features.</p>
           <p>We may communicate with you if you’ve provided us the means to do so. For example, if you’ve given us your email address, we may send you promotional email offers on behalf of other businesses, or email you about your use of the Services. Also, we may receive a confirmation when you open an email from us. This confirmation
-            helps us make our communications with you more interesting and improve our services. If you do not want to receive communications from us, please email us at <a href="mailto:kamran@roadmap.sh">kamran@roadmap.sh</a>.</p>
+            helps us make our communications with you more interesting and improve our services. If you do not want to receive communications from us, please email us at <a href="mailto:kamran@developer.guide">kamran@developer.guide</a>.</p>
 
           <h2>Information Collected Automatically</h2>
           <p>Whenever you interact with our Services, we automatically receive and record information on our server logs from your browser or device, which may include your IP address, geolocation data, device identification, “cookie” information, the type of browser and/or device you’re using to access our Services, and the page or
@@ -48,7 +48,7 @@ const Privacy = () => (
             many
             users as possible.</p>
 
-          <h2>Will roadmap.sh Share Any of the Personal Information it Receives?</h2>
+          <h2>Will developer.guide Share Any of the Personal Information it Receives?</h2>
           <p>We may share your Personal Information with third parties as described in this section:</p>
           <p>Information that’s no longer personally identifiable. We may anonymize your Personal Information so that you are not individually identified, and provide that information to our partners. We may also provide aggregate usage information to our partners, who may use such information to understand how often and in what ways
             people
@@ -62,7 +62,7 @@ const Privacy = () => (
             and
             we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. One such service may include the ability for you to automatically transmit Third Party Account Information to your Services profile or to automatically transmit information in your
             Services
-            profile to your third party account; for example, you may sign into your roadmap.sh account using your Twitter account. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated
+            profile to your third party account; for example, you may sign into your developer.guide account using your Twitter account. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated
             website or business, please review all such business’ or websites’ policies.</p>
           <p>Our Agents: We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us.</p>
           <p>User Profiles and Submissions: Certain user profile information, including your name, location, and any video or image content that such user has uploaded to the Services, may be displayed to other users to facilitate user interaction within the Services or address your request for our services. Please remember that any
@@ -73,7 +73,7 @@ const Privacy = () => (
             imported to the Services, and such “friends,” if they are also registered users of the Services, may be able to access certain non-public information you have entered in your Services user profile. Again, we do not control the policies and practices of any other third party site or service.</p>
           <p>Business Transfers: We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that would be transferred. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal
             Information could be one of the assets transferred to or acquired by a third party.</p>
-          <p>Protection of roadmap.sh and Others: We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; enforce or apply our terms of use and other agreements; or protect the rights, property, or safety of roadmap.sh, our employees, our
+          <p>Protection of developer.guide and Others: We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; enforce or apply our terms of use and other agreements; or protect the rights, property, or safety of developer.guide, our employees, our
             users,
             or others.</p>
 
@@ -90,20 +90,20 @@ const Privacy = () => (
             <li>age or birthday</li>
             <li>username</li>
           </ul>
-          <p>The information you can view, update, and delete may change as the Services change. If you have any questions about viewing or updating information we have on file about you, please contact us at <a href="mailto:kamran@roadmap.sh">kamran@roadmap.sh</a>.</p>
+          <p>The information you can view, update, and delete may change as the Services change. If you have any questions about viewing or updating information we have on file about you, please contact us at <a href="mailto:kamran@developer.guide">kamran@developer.guide</a>.</p>
           <p>Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you
             are
-            a California resident and would like a copy of this notice, please submit a written request to: <a href="mailto:kamran@roadmap.sh">kamran@roadmap.sh</a>.</p>
+            a California resident and would like a copy of this notice, please submit a written request to: <a href="mailto:kamran@developer.guide">kamran@developer.guide</a>.</p>
 
           <h2>What choices do I have?</h2>
           <p>You can always opt not to disclose information to us, but keep in mind some information may be needed to register with us or to take advantage of some of our features.</p>
-          <p>You may be able to add, update, or delete information as explained above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your account by contacting us at <a href="mailto:kamran@roadmap.sh">kamran@roadmap.sh</a> and we will disassociate
+          <p>You may be able to add, update, or delete information as explained above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your account by contacting us at <a href="mailto:kamran@developer.guide">kamran@developer.guide</a> and we will disassociate
             our
             email address and Twitter account from any content or other information provided to us. Some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner
             that would identify you personally.</p>
 
           <h2>What if I have questions about this policy?</h2>
-          <p>If you have any questions or concerns regarding our privacy policies, please send us a detailed message to <a href="mailto:kamran@roadmap.sh">kamran@roadmap.sh</a>, and we will try to resolve your concerns.</p>
+          <p>If you have any questions or concerns regarding our privacy policies, please send us a detailed message to <a href="mailto:kamran@developer.guide">kamran@developer.guide</a>, and we will try to resolve your concerns.</p>
         </div>
       </div>
       <PageFooter />
