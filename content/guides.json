@@ -5,7 +5,7 @@
     "url": "/guides/project-history",
     "fileName": "project-history",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "updatedAt": "2020-07-16T19:59:14.191Z",
     "createdAt": "2020-07-16T19:59:14.191Z"
   },
@@ -15,7 +15,7 @@
     "url": "/guides/ci-cd",
     "fileName": "ci-cd",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "updatedAt": "2020-07-09T19:59:14.191Z",
     "createdAt": "2020-07-09T19:59:14.191Z"
   },
@@ -25,7 +25,7 @@
     "url": "/guides/sso",
     "fileName": "sso",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "updatedAt": "2020-07-01T19:59:14.191Z",
     "createdAt": "2020-07-01T19:59:14.191Z"
   },
@@ -35,7 +35,7 @@
     "url": "/guides/oauth",
     "fileName": "oauth",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "updatedAt": "2020-06-28T19:59:14.191Z",
     "createdAt": "2020-06-28T19:59:14.191Z"
   },
@@ -45,7 +45,7 @@
     "url": "/guides/jwt-authentication",
     "fileName": "jwt-authentication",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "updatedAt": "2020-06-20T19:59:14.191Z",
     "createdAt": "2020-06-20T19:59:14.191Z"
   },
@@ -55,7 +55,7 @@
     "url": "/guides/token-authentication",
     "fileName": "token-authentication",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "updatedAt": "2020-06-02T20:59:14.191Z",
     "createdAt": "2020-06-02T20:59:14.191Z"
   },
@@ -65,7 +65,7 @@
     "url": "/guides/session-authentication",
     "fileName": "session-authentication",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "updatedAt": "2020-05-26T20:59:14.191Z",
     "createdAt": "2020-05-26T20:59:14.191Z"
   },
@@ -75,7 +75,7 @@
     "url": "/guides/basic-authentication",
     "fileName": "basic-authentication",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "updatedAt": "2020-05-19T20:59:14.191Z",
     "createdAt": "2020-05-19T20:59:14.191Z"
   },
@@ -85,7 +85,7 @@
     "url": "/guides/character-encodings",
     "fileName": "character-encodings",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "updatedAt": "2020-05-14T20:59:14.191Z",
     "createdAt": "2020-05-14T20:59:14.191Z"
   },
@@ -95,7 +95,7 @@
     "url": "/guides/unfamiliar-codebase",
     "fileName": "unfamiliar-codebase",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "updatedAt": "2020-05-04T20:59:14.191Z",
     "createdAt": "2020-05-04T20:59:14.191Z"
   },
@@ -115,7 +115,7 @@
     "url": "/guides/dhcp-in-one-picture",
     "fileName": "dhcp-in-one-picture",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "updatedAt": "2020-04-28T15:48:21.191Z",
     "createdAt": "2020-04-28T15:48:21.191Z"
   },
@@ -125,7 +125,7 @@
     "url": "/guides/ssl-tls-https-ssh",
     "fileName": "ssl-tls-https-ssh",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "updatedAt": "2020-04-22T15:48:21.191Z",
     "createdAt": "2020-04-22T15:48:21.191Z"
   },
@@ -135,7 +135,7 @@
     "url": "/guides/asymptotic-notation",
     "fileName": "asymptotic-notation",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "updatedAt": "2020-04-03T15:48:21.191Z",
     "createdAt": "2020-04-03T15:48:21.191Z"
   },
@@ -145,7 +145,7 @@
     "url": "/guides/big-o-notation",
     "fileName": "big-o-notation",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "updatedAt": "2020-03-15T15:48:21.191Z",
     "createdAt": "2020-03-15T15:48:21.191Z"
   },
@@ -155,7 +155,7 @@
     "url": "/guides/random-numbers",
     "fileName": "random-numbers",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "updatedAt": "2020-03-14T15:48:21.191Z",
     "createdAt": "2020-03-14T15:48:21.191Z"
   },
@@ -165,7 +165,7 @@
     "url": "/guides/scaling-databases",
     "fileName": "scaling-databases",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "updatedAt": "2020-02-18T15:48:21.191Z",
     "createdAt": "2020-02-18T15:48:21.191Z"
   },
@@ -196,7 +196,7 @@
     "url": "/guides/levels-of-seniority",
     "fileName": "levels-of-seniority",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "updatedAt": "2019-12-03T12:13:00.860Z",
     "createdAt": "2019-12-03T12:13:00.860Z"
   },
@@ -206,7 +206,7 @@
     "url": "/guides/design-patterns-for-humans",
     "fileName": "design-patterns-for-humans",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "updatedAt": "2019-10-09T12:00:00.860Z",
     "createdAt": "2019-01-23T17:00:00.860Z"
   },
@@ -216,7 +216,7 @@
     "url": "/guides/journey-to-http2",
     "fileName": "journey-to-http2",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "createdAt": "2018-12-04T12:00:00.860Z",
     "updatedAt": "2018-12-04T12:00:00.860Z",
     "draft": true
@@ -227,7 +227,7 @@
     "url": "/guides/dns-in-one-picture",
     "fileName": "dns-in-one-picture",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "updatedAt": "2018-12-04T12:00:00.860Z",
     "createdAt": "2018-12-04T17:00:00.860Z"
   },
@@ -237,7 +237,7 @@
     "url": "/guides/http-caching",
     "fileName": "http-caching",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "createdAt": "2018-11-29T17:00:00.860Z",
     "updatedAt": "2018-11-29T17:00:00.860Z"
   },
@@ -247,7 +247,7 @@
     "url": "/guides/history-of-javascript",
     "fileName": "history-of-javascript",
     "featured": true,
-    "author": "kamranahmedse",
+    "author": "artyomdev",
     "createdAt": "2017-10-28T17:00:00.860Z",
     "updatedAt": "2017-10-28T17:00:00.860Z"
   },
