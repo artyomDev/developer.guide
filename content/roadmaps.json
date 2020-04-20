@@ -32,7 +32,7 @@
     "featuredDescription": "Step by step guide to becoming a modern frontend developer in 2020",
     "author": {
       "name": "Artem Medianyk",
-      "url": "https://twitter.com/kamranahmedse"
+      "url": "https://github.com/artyomdev"
     },
     "featured": true,
     "path": "/roadmaps/1-frontend/landscape.md",
@@ -84,7 +84,7 @@
     "resources": "/roadmaps/2-backend/resources.md",
     "author": {
       "name": "Artem Medianyk",
-      "url": "https://twitter.com/kamranahmedse"
+      "url": "https://github.com/artyomdev"
     },
     "contributorsCount": 1,
     "contributorsUrl": "/backend/contributors",
@@ -126,7 +126,7 @@
     ],
     "author": {
       "name": "Artem Medianyk",
-      "url": "https://twitter.com/kamranahmedse"
+      "url": "https://github.com/artyomdev"
     },
     "contributorsCount": 1,
     "contributorsUrl": "/devops/contributors",
@@ -166,7 +166,7 @@
     ],
     "author": {
       "name": "Artem Medianyk",
-      "url": "https://twitter.com/kamranahmedse"
+      "url": "https://github.com/artyomdev"
     },
     "contributorsCount": 1,
     "contributorsUrl": "/android/contributors",
@@ -250,7 +250,7 @@
     ],
     "author": {
       "name": "Artem Medianyk",
-      "url": "https://twitter.com/kamranahmedse"
+      "url": "https://github.com/artyomdev"
     },
     "contributorsCount": 1,
     "contributorsUrl": "/react/contributors",
