@@ -15,10 +15,6 @@ const SiteNav = () => (
           <span className='new-item' />
         </a>
       </div>
-
-      <div className='ml-3 align-items-center d-none d-md-flex'>
-        <iframe src="https://ghbtns.com/github-btn.html?user=kamranahmedse&repo=developer-roadmap&type=star&count=true&size=large" frameBorder="0" scrolling="0" width="190px" height="30px"></iframe>
-      </div>
     </div>
   </HeaderWrap>
 );
