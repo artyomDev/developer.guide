@@ -11,7 +11,7 @@
   </p>
 </p>
 
-[Developer Roadmap](https://github.com/artyomdev/developer-roadmap) is the community effort to create knowledge that is approachable for the developers. 
+[Developer's Guide](https://github.com/artyomdev/developer-roadmap) is the community effort to create knowledge that is approachable for the developers. 
 
 The website is built with Next.js, contains roadmaps which are the step by step guides for developers, guides which are the easier to understand explanations on the complex topics. Anyone can contribute to the website by suggesting changes to existing paths, adding learning resources, becoming an author by adding new guides, updating the existing guides.
 
