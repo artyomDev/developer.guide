@@ -9,10 +9,6 @@ We haven't opened up the sign ups for now but we will be doing. My long term pla
 ## How did you build developer.guide?
 The basic version of the website has been built with [Next.js](https://github.com/zeit/next.js/), is opensource and can be found on [github](https://github.com/artyomdev/developer.guide). It was hastily done to get it out in front of the people and get people to start contributing so it might be rough on the edges, but that is where we need your help.
 
-
-## Can I redistribute the content?
-No, the license of the content on this website does not allow you to redistribute any of the content on this website anywhere. You can use it for personal use or share the link to the content if you have to but redistribution is not allowed.
-
 ## What is the best way to contact you?
-Tweet or send me a message [@kamranahmedse](https://twitter.com/kamranahmedse) or email me at [kamran@roadmap.sh](mailto:kamran@roadmap.sh). I get lots of messages so apologies in advance if you don't hear back from me soon but I do reply to everyone.
+Tweet or send me a message [@kamranahmedse](https://twitter.com/kamranahmedse) or email me at [www0327333@gmail.com](mailto:www0327333@gmail.com). I get lots of messages so apologies in advance if you don't hear back from me soon but I do reply to everyone.
 
