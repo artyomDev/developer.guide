@@ -10,5 +10,5 @@ We haven't opened up the sign ups for now but we will be doing. My long term pla
 The basic version of the website has been built with [Next.js](https://github.com/zeit/next.js/), is opensource and can be found on [github](https://github.com/artyomdev/developer.guide). It was hastily done to get it out in front of the people and get people to start contributing so it might be rough on the edges, but that is where we need your help.
 
 ## What is the best way to contact you?
-Tweet or send me a message at [www0327333@gmail.com](mailto:www0327333@gmail.com). I get lots of messages so apologies in advance if you don't hear back from me soon but I do reply to everyone.
+Send me a message at [www0327333@gmail.com](mailto:www0327333@gmail.com). I get lots of messages so apologies in advance if you don't hear back from me soon but I do reply to everyone.
 

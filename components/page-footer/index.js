@@ -24,9 +24,7 @@ const PageFooter = () => (
         </div>
         <div className="site-contribute foot-col col-12 col-sm-4 col-lg-2">
           <ul>
-            <li className='foot-header'>Contribute</li>
-            <li><a href={ siteConfig.url.addGuide } target="_blank">Write a Guide</a></li>
-            <li><a href={ siteConfig.url.addRoadmap } target="_blank">Submit a Guide</a></li>
+            <li className='foot-header'>About</li>
             <li><a href='/about'>About this Site</a></li>
           </ul>
         </div>
