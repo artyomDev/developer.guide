@@ -36,7 +36,7 @@ Here is how a sample `HTTP/1.0` request and response might have looked like:
 
 ```html
 GET / HTTP/1.0
-Host: kamranahmed.info
+Host: artyomdev.info
 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5)
 Accept: */*
 ```
