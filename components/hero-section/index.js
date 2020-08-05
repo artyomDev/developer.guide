@@ -5,7 +5,7 @@ const HeroSection = () => (
   <HeroSectionWrap>
     <div className="container">
       <h1>Developer Guides</h1>
-      <p>Community driven guides, articles and resources for developers. <Link href="/signup"><a>Sign up</a></Link> for occasional updates on new guides, updates and guides</p>
+      <p>Community driven guides, articles and resources for developers.</p>
     </div>
   </HeroSectionWrap>
 );

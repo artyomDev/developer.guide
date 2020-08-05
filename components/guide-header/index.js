@@ -43,12 +43,6 @@ const GuideHeader = ({
             Other Guides
           </SecondaryBadge>
         </BadgeLink>
-        <BadgeLink href="/signup">
-          <PrimaryBadge>
-            <FontAwesomeIcon icon={faEnvelope}/>
-            Send me Updates
-          </PrimaryBadge>
-        </BadgeLink>
       </BadgesList>
     </ActionItems>
   </HeaderWrap>
