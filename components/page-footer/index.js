@@ -32,9 +32,7 @@ const PageFooter = () => (
           <ul>
             <li className="foot-header">Learn</li>
             <li><a href="/guides">Read Guides</a></li>
-            <li><a href="/watch">Watch Videos</a></li>
             <li><a href="/podcasts">Podcasts</a></li>
-            <li><a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1" target="_blank">YouTube</a></li>
           </ul>
         </div>
         <div className="site-learn foot-col col-12 col-sm-4 col-lg-2">
