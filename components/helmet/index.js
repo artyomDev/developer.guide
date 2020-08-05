@@ -17,10 +17,10 @@ const Helmet = (props) => (
     <title>{ prepareTitle(props.title) }</title>
 
     <link rel="manifest" href="/manifest/manifest.json" />
-    <link rel="icon" type="image/png" sizes="32x32" href="/manifest/icon32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="/manifest/icon16.png" />
-    <link rel="shortcut icon" href="/manifest/favicon.ico" type="image/x-icon" />
-    <link rel="icon" href="/manifest/favicon.ico" type="image/x-icon" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/manifest/favicon.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/manifest/favicon.png" />
+    <link rel="shortcut icon" href="/manifest/favicon.png" type="image/x-icon" />
+    <link rel="icon" href="/manifest/favicon.png" type="image/x-icon" />
 
     { /* Global Site Tag (gtag.js) - Google Analytics */ }
     { process.env.GA_SECRET && (
