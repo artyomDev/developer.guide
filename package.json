@@ -45,5 +45,9 @@
     "glob": "^7.1.6",
     "jest": "^25.2.3",
     "serve": "^11.3.0"
+  },
+  "engineStrict": true,
+  "engines": {
+    "node" : "v12.18.4"
   }
 }
