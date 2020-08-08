@@ -25,12 +25,6 @@ const GuidesList = () => (
             Write a Guide
           </SecondaryBadge>
         </BadgeLink>
-        <BadgeLink href="/signup">
-          <PrimaryBadge>
-            <FontAwesomeIcon icon={faEnvelope}/>
-            Send me Updates
-          </PrimaryBadge>
-        </BadgeLink>
       </BadgesList>
     </PageHeader>
     <div className="pt-5 pb-5 bg-light border-top">

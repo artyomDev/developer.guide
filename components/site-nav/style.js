@@ -36,18 +36,6 @@ export const HeaderWrap = styled.div`
       color: #666;
     }
 
-    .signup {
-      background: #101010;
-      border-radius: 5px;
-      color: #ffffff;
-      padding: 7px 10px;
-      margin-left: 15px;
-
-      &:hover {
-        background: #2d2d2d;
-      }
-    }
-
     .new-item {
       position: absolute;
       top: 0;

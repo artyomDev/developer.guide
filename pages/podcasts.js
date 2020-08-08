@@ -25,12 +25,6 @@ const PodcastsList = () => (
               Submit a Podcast
             </SecondaryBadge>
           </BadgeLink>
-          <BadgeLink href="/signup">
-            <PrimaryBadge>
-              <FontAwesomeIcon icon={faEnvelope}/>
-              Send me Updates
-            </PrimaryBadge>
-          </BadgeLink>
         </BadgesList>
       </PageHeader>
     </div>

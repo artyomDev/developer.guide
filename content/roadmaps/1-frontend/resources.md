@@ -1,5 +1,5 @@
 <div className='alert alert-primary' style={{ marginBottom: '-10px'}}>
-  This page is incomplete and is being worked upon. Please check back later or <a href='/signup'>subscribe</a> / <a href='https://github.com/artyomdev'>follow me on twitter</a> to get notified. Also, feel free to contribute by suggesting the resources in <a href='https://github.com/artyomdev/developer.guide'>the issues</a>.
+  This page is incomplete and is being worked upon. Please check back later or <a href='https://github.com/artyomdev'>follow me on github</a> to get notified. Also, feel free to contribute by suggesting the resources in <a href='https://github.com/artyomdev/developer.guide'>the issues</a>.
 </div>
 
 # Become a Frontend Developer

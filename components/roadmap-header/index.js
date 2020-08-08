@@ -17,14 +17,7 @@ const RoadmapHeader = ({ roadmap, page = 'landscape' }) => (
           Other Roadmaps
         </DarkBadge>
       </BadgeLink>
-      { roadmap.upcoming && (
-        <BadgeLink href="/signup">
-          <SecondaryBadge>
-            <FontAwesomeIcon className='d-none d-md-block' icon={ faClock } />
-            Upcoming Roadmap
-          </SecondaryBadge>
-        </BadgeLink>
-      ) }
+
       { !roadmap.upcoming && (
         <BadgeLink href={ `${siteConfig.url.issue}?title=[${roadmap.title}] - Title Here` } target="_blank" className='d-none d-md-block' >
           <SecondaryBadge>
@@ -34,12 +27,6 @@ const RoadmapHeader = ({ roadmap, page = 'landscape' }) => (
         </BadgeLink>
       ) }
 
-      <BadgeLink href="/signup">
-        <PrimaryBadge>
-          <FontAwesomeIcon className='d-none d-md-block' icon={ faEnvelope } />
-          Send me Updates
-        </PrimaryBadge>
-      </BadgeLink>
     </BadgesList>
 
     <MenuItems className="border-bottom">
