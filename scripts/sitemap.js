@@ -28,7 +28,6 @@ const getSlugPriority = (pageSlug) => {
     [
       '/roadmaps',
       '/guides',
-      '/watch',
       '/podcasts'
     ], // 1.0
     ['/about'], // 0.8
