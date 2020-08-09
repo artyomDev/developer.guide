@@ -10,7 +10,7 @@ import siteConfig from 'content/site';
 import { BadgeLink, BadgesList, PrimaryBadge, SecondaryBadge } from 'components/badges';
 import Helmet from 'components/helmet';
 
-const PageTitle = "Developer's Guide";
+const PageTitle = "Developer Guides";
 const PageDescription = "Step by step guides and paths to learn different tools or technologies";
 
 function getBadgeText(roadmap) {

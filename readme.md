@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">Developer's guide</h2>
+  <h2 align="center">Developer Guides</h2>
   <p align="center">Community driven roadmaps, articles and resources for developers<p>
   <p align="center">
     <a href="https://developerguide.herokuapp.com/guides">
@@ -11,7 +11,7 @@
   </p>
 </p>
 
-[Developer's Guide](https://developerguide.herokuapp.com) is the community effort to create knowledge that is approachable for the developers. 
+[Developer Guides](https://developerguide.herokuapp.com) is the community effort to create knowledge that is approachable for the developers. 
 
 The website is built with Next.js, contains roadmaps which are the step by step guides for developers, guides which are the easier to understand explanations on the complex topics. Anyone can contribute to the website by suggesting changes to existing paths, adding learning resources, becoming an author by adding new guides, updating the existing guides.
 
