@@ -4,7 +4,7 @@
   "name": "developerguide",
   "scope": "/",
   "display": "standalone",
-  "start_url": "https://developerguide.herokuapp.com/",
+  "start_url": "https://developerguide.herokuapp.com",
   "short_name": "developerguide",
   "theme_color": "#EDD07E",
   "description": "Developer guide to becoming a Modern Developer",
