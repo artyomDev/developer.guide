@@ -5,7 +5,7 @@ const guides = require('../content/guides');
 const roadmaps = require('../content/roadmaps');
 const { getPageRoutes, getGuideRoutes } = require('./path-map');
 
-const DOMAIN = 'https://roadmap.sh';
+const DOMAIN = 'https://developerguide.herokuapp.com';
 const PAGES_DIR = path.join(__dirname, '../pages');
 const STORAGE_PATH = path.join(__dirname, '../content');
 const SITEMAP_PATH = 'public/sitemap.xml';
