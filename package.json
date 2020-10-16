@@ -10,9 +10,6 @@
     "deploy": "next build",
     "test": "jest",
     "test:watch": "jest --watch",
-    "meta:sitemap": "node scripts/sitemap.js",
-    "meta:roadmaps": "node scripts/roadmaps-meta.js",
-    "meta": "yarn meta:roadmaps && yarn meta:sitemap",
     "start": "node server"
   },
   "dependencies": {
