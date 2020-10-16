@@ -2,10 +2,10 @@
   <h2 align="center">Developer's guide</h2>
   <p align="center">Community driven roadmaps, articles and resources for developers<p>
   <p align="center">
-    <a href="https://roadmap.sh/guides">
+    <a href="https://developerguide.herokuapp.com/guides">
     	<img src="https://img.shields.io/badge/-Guides-0a0a0a.svg?style=flat&colorA=0a0a0a" />
     </a>
-    <a href="https://roadmap.sh/roadmaps">
+    <a href="https://developerguide.herokuapp.com/roadmaps">
     	<img src="https://img.shields.io/badge/-Roadmaps-0a0a0a.svg?style=flat&colorA=0a0a0a" />
     </a>
   </p>
@@ -25,7 +25,7 @@ If you use windows system, please install Ubuntu 20.04 LTS WSL.
 Clone the repository, install the dependencies and start the application
 
 ```bash
-git clone https://github.com/artyomdev/developer-roadmap
+git clone https://github.com/artyomdev/developer.guide
 yarn install
 yarn dev
 ```
