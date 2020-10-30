@@ -1,0 +1,14 @@
+_*
+Thumbs.db
+.DS_Store
+.idea
+.next
+out
+.env
+build
+node_modules
+yarn-error.log
+*.sublime-project
+*.sublime-workspace
+config/*.json
+!config/dev.json
