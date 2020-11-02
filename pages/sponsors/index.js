@@ -57,7 +57,7 @@ const Sponsors = () => (
             </ul>
 
             <p>High volume (monthly or quarterly) discounts are available for all packages, and I can do customized advertising packages as well.</p>
-            <p>— Kamran (<StrongLink href='mailto:www0327333@gmail.com?subject=Sponsoring developer.guide'>www0327333@gmail.com</StrongLink>)</p>
+            <p>— Artem (<StrongLink href='mailto:www0327333@gmail.com?subject=Sponsoring developer.guide'>www0327333@gmail.com</StrongLink>)</p>
           </div>
         </div>
       </div>
