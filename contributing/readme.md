@@ -1,7 +1,7 @@
 ## The Goal
 
 * For the roadmaps, we encourage you to discuss and contribute with new roadmaps. For the existing ones, please note that our goal is to not have the biggest list of items. Our goal is to have a list of items or skills most relevant today.
-* For the guides, please pick a topic, open an issue or reach out on twitter [@kamranahmese](https://twitter.com/kamranahmedse) to get the go-ahead and [start writing](./guide.md).
+* For the guides, please pick a topic, open an issue or reach out on twitter [@artyomdev](https://github.com/artyomdev) to get the go-ahead and [start writing](./guide.md).
 * For the resources, we are still preparing the contribution guidelines but submit them in an issue for now. Just note that the resources are *highly opinionated* and *curated*. Your opinion on value of any resource may not match the opinion of curator.  
 
 ## Contributing
