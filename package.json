@@ -12,7 +12,8 @@
     "test:watch": "jest --watch",
     "meta:sitemap": "node scripts/sitemap.js",
     "meta:roadmaps": "node scripts/roadmaps-meta.js",
-    "meta": "yarn meta:roadmaps && yarn meta:sitemap"
+    "meta": "yarn meta:roadmaps && yarn meta:sitemap",
+    "start": "node server"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
