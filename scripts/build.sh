@@ -2,5 +2,5 @@
 
 NODE_ENV=prod next build
 NODE_ENV=prod next export
-echo 'roadmap.sh' > out/CNAME
+echo 'guide' > out/CNAME
 touch out/.nojekyll
