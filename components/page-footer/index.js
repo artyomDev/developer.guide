@@ -26,7 +26,7 @@ const PageFooter = () => (
           <ul>
             <li className='foot-header'>Contribute</li>
             <li><a href={ siteConfig.url.addGuide } target="_blank">Write a Guide</a></li>
-            <li><a href={ siteConfig.url.addRoadmap } target="_blank">Submit a Roadmap</a></li>
+            <li><a href={ siteConfig.url.addRoadmap } target="_blank">Submit a Guide</a></li>
             <li><a href='/about'>About this Site</a></li>
           </ul>
         </div>
@@ -42,9 +42,9 @@ const PageFooter = () => (
         <div className="site-learn foot-col col-12 col-sm-4 col-lg-2">
           <ul>
             <li className="foot-header">Most Visited</li>
-            <li><a href="/frontend">Frontend Roadmap</a></li>
-            <li><a href="/backend">Backend Roadmap</a></li>
-            <li><a href="/devops">DevOps Roadmap</a></li>
+            <li><a href="/frontend">Frontend Guide</a></li>
+            <li><a href="/backend">Backend Guide</a></li>
+            <li><a href="/devops">DevOps Guide</a></li>
             <li><a href="/roadmaps">Upcoming</a></li>
           </ul>
         </div>
