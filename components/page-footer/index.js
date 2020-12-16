@@ -12,10 +12,10 @@ const PageFooter = () => (
               <a href="/" className='brand'><img src="/brand.png" alt="" /> developer.guide </a>
             </div>
             <div className="brand-explanation">
-              <p>Community created roadmaps, articles, resources and journeys to help you choose your path and grow in your career.</p>
+              <p>Community created guides, articles, resources and journeys to help you choose your path and grow in your career.</p>
             </div>
             <p className='meta-links'>
-              &copy; roadmap.sh &middot;
+              &copy; developer.guide &middot;
               &nbsp; <a href="/about">FAQ</a> &middot;
               &nbsp; <a href="/terms">Terms</a> &middot;
               &nbsp; <a href="/privacy">Privacy</a>
@@ -25,7 +25,6 @@ const PageFooter = () => (
         <div className="site-contribute foot-col col-12 col-sm-4 col-lg-2">
           <ul>
             <li className='foot-header'>Contribute</li>
-            <li><a href='https://gum.co/roadmap-sh'  target="_blank">Sponsor us</a></li>
             <li><a href={ siteConfig.url.addGuide } target="_blank">Write a Guide</a></li>
             <li><a href={ siteConfig.url.addRoadmap } target="_blank">Submit a Roadmap</a></li>
             <li><a href='/about'>About this Site</a></li>
