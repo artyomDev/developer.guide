@@ -52,14 +52,6 @@ const PageFooter = () => (
     </div>
 
 
-    {/* Do not show on local */}
-    { process.env.GA_SECRET && (
-      <>
-        <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7DLK3Y&placement=roadmapsh" id="_carbonads_js"></script>
-        {/*<div id="codefund"></div>*/}
-        {/*<script src="https://app.codefund.io/properties/681/funder.js" async></script>*/}
-      </>
-    ) }
   </FooterWrap>
 );
 
