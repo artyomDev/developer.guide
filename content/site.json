@@ -8,14 +8,14 @@
   "logo": "/brand.png",
   "logoSquare": "/brand-square.png",
   "url": {
-    "web": "https://roadmap.sh",
-    "repo": "https://github.com/kamranahmedse/roadmap.sh",
-    "repoData": "https://github.com/kamranahmedse/roadmap.sh/tree/master/content",
-    "addGuide": "https://github.com/kamranahmedse/roadmap.sh/tree/master/contributing/guide.md",
-    "addRoadmap": "https://github.com/kamranahmedse/roadmap.sh/tree/master/contributing/roadmap.md",
-    "addResources": "https://github.com/kamranahmedse/roadmap.sh/tree/master/contributing/resources.md",
-    "contribute": "https://github.com/kamranahmedse/roadmap.sh/tree/master/contributing",
-    "issue": "https://github.com/kamranahmedse/roadmap.sh/issues/new"
+    "web": "https://developerguide.herokuapp.com",
+    "repo": "https://github.com/artyomdev/developer.guide",
+    "repoData": "https://github.com/artyomdev/developer.guide/tree/master/content",
+    "addGuide": "https://github.com/artyomdev/developer.guide/tree/master/contributing/guide.md",
+    "addRoadmap": "https://github.com/artyomdev/developer.guide/tree/master/contributing/roadmap.md",
+    "addResources": "https://github.com/artyomdev/developer.guide/tree/master/contributing/resources.md",
+    "contribute": "https://github.com/artyomdev/developer.guide/tree/master/contributing",
+    "issue": "https://github.com/artyomdev/developer.guide/issues/new"
   },
   "keywords": [
     "roadmap",
