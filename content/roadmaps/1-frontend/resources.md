@@ -1,5 +1,5 @@
 <div className='alert alert-primary' style={{ marginBottom: '-10px'}}>
-  This page is incomplete and is being worked upon. Please check back later or <a href='/signup'>subscribe</a> / <a href='https://twitter.com/kamranahmedse'>follow me on twitter</a> to get notified. Also, feel free to contribute by suggesting the resources in <a href='https://github.com/kamranahmedse/developer-roadmap'>the issues</a>.
+  This page is incomplete and is being worked upon. Please check back later or <a href='/signup'>subscribe</a> / <a href='https://github.com/artyomdev'>follow me on twitter</a> to get notified. Also, feel free to contribute by suggesting the resources in <a href='https://github.com/artyomdev/developer.guide'>the issues</a>.
 </div>
 
 # Become a Frontend Developer
@@ -11,7 +11,6 @@ Get the basic understanding of internet, browsers, networks and other relevant k
 
 * <BadgeLink badgeText='Read' href='/guides/what-is-internet'>What is Internet?</BadgeLink>
 * <BadgeLink variant='primary' badgeText='Watch' href='https://www.youtube.com/watch?v=7_LPdttKXPc'>How the internet works in 5 minutes</BadgeLink>
-* <BadgeLink badgeText='Read' href='https://kamranahmed.info/blog/2016/08/13/http-in-depth/'>What is HTTP and how it evolved?</BadgeLink>
 * <BadgeLink badgeText='Read' href='https://blog.cloudflare.com/http3-the-past-present-and-future/'>HTTP/3: the past, the present, and the future</BadgeLink>
 * <BadgeLink badgeText='Read' href='https://kinsta.com/blog/http3/'>What Is HTTP/3 – Lowdown on the Fast New UDP-Based Protocol</BadgeLink>
 * <BadgeLink badgeText='Read' href='https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/'>How Browsers Work: Behind the scenes of modern web browsers</BadgeLink>
