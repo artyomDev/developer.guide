@@ -10,7 +10,7 @@
     "deploy": "next build",
     "test": "jest",
     "test:watch": "jest --watch",
-    "start": "node server"
+    "start": "next start"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
