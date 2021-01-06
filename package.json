@@ -6,11 +6,11 @@
   "scripts": {
     "dev": "NODE_ENV=dev next",
     "serve:out": "serve out",
-    "build": "NODE_ENV=prod next build && NODE_ENV=prod next export",
+    "build": "",
     "deploy": "next build",
     "test": "jest",
     "test:watch": "jest --watch",
-    "start": "next start -p $PORT"
+    "start": "node server"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
