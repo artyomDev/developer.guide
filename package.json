@@ -10,7 +10,7 @@
     "deploy": "next build",
     "test": "jest",
     "test:watch": "jest --watch",
-    "start": "next start"
+    "start": "next start -p $PORT"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
