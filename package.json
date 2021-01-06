@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "NODE_ENV=dev next",
     "serve:out": "serve out",
-    "build": "next build",
+    "build": "NODE_ENV=prod next build && NODE_ENV=prod next export",
     "deploy": "next build",
     "test": "jest",
     "test:watch": "jest --watch",
