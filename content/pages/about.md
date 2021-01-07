@@ -4,7 +4,7 @@ Developer.guide is the place containing community curated roadmaps, study plans,
 ## What are the plans for developer.guide?
 The website started off as a [simple repository containing a few charts](https://github.com/artyomdev/developer.guide) for developers and based on my personal opinions but it could have been much more than that so I decided to expand it to a website where people can contribute to study plans with their areas of expertise as well, add more roadmaps, write guides etc. 
 
-We haven't opened up the sign ups for now but we will be doing. My long term plans for this website are to turn it into a goto place for the developers to seek guidance about their careers, help others, share their journeys, incentivize the learnings, get feedbacks on their projects etc.
+We haven't opened up the sign ups for now, but we will be doing. My long term plans for this website are to turn it into a goto place for the developers to seek guidance about their careers, help others, share their journeys, incentivize the learnings, get feedbacks on their projects etc.
 
 ## How did you build developer.guide?
 The basic version of the website has been built with [Next.js](https://github.com/zeit/next.js/), is opensource and can be found on [github](https://github.com/artyomdev/developer.guide). It was hastily done to get it out in front of the people and get people to start contributing so it might be rough on the edges, but that is where we need your help.
