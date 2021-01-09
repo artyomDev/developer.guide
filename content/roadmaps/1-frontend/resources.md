@@ -3,7 +3,7 @@
 </div>
 
 # Become a Frontend Developer
-Before I go ahead and list down the resources, please know that the roadmap and the list below is exhaustive and you don't need to know it all from the get go. For frontend development, all you need to get started with is learn some basic HTML, CSS and JavaScript and start working on projects; everything else you will learn along the way. 
+Before I go ahead and list down the resources, please know that the guide and the list below is exhaustive and you don't need to know it all from the get go. For frontend development, all you need to get started with is learn some basic HTML, CSS and JavaScript and start working on projects; everything else you will learn along the way. 
 
 ## Internet and how it works?
 

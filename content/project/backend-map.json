@@ -2025,7 +2025,7 @@
                     "y": "215",
                     "properties": {
                         "size": "16",
-                        "text": "Order in roadmap not strict (Learn anytime)"
+                        "text": "Order in guide not strict (Learn anytime)"
                     }
                 },
                 {
@@ -2446,7 +2446,7 @@
                     "y": "156",
                     "properties": {
                         "size": "17",
-                        "text": "Find the detailed version of this roadmap"
+                        "text": "Find the detailed version of this guide"
                     }
                 },
                 {
@@ -2459,7 +2459,7 @@
                     "y": "184",
                     "properties": {
                         "size": "17",
-                        "text": "along with resources and other roadmaps"
+                        "text": "along with resources and other guides"
                     }
                 },
                 {
