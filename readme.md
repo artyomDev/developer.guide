@@ -1,6 +1,6 @@
 <p align="center">
   <h2 align="center">Developer Guides</h2>
-  <p align="center">Community driven roadmaps, articles and resources for developers<p>
+  <p align="center">Community driven guides, articles and resources for developers<p>
   <p align="center">
   </p>
 </p>
