@@ -2,12 +2,6 @@
   <h2 align="center">Developer Guides</h2>
   <p align="center">Community driven roadmaps, articles and resources for developers<p>
   <p align="center">
-    <a href="https://developerguide.herokuapp.com/guides">
-    	<img src="https://img.shields.io/badge/-Guides-0a0a0a.svg?style=flat&colorA=0a0a0a" />
-    </a>
-    <a href="https://developerguide.herokuapp.com/roadmaps">
-    	<img src="https://img.shields.io/badge/-Roadmaps-0a0a0a.svg?style=flat&colorA=0a0a0a" />
-    </a>
   </p>
 </p>
 
