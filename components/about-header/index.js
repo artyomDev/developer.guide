@@ -18,4 +18,7 @@ const AboutHeader = () => (
   </AboutHeaderWrap>
 );
 
+
+
+
 export default AboutHeader;
