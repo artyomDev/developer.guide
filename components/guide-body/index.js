@@ -8,13 +8,6 @@ const GuideBody = ({ guide }) => {
     <GuideBodyWrap>
       <MdRenderer>
         <GuideContent />
-        {
-          guide.author && <SharePage
-            title={ guide.title }
-            url={ guide.url }
-            twitterUsername={ guide.author.twitter }
-          />
-        }
       </MdRenderer>
     </GuideBodyWrap>
   );

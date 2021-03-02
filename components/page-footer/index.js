@@ -1,4 +1,3 @@
-import siteConfig from 'content/site';
 import { FooterWrap } from './style.js';
 import './carbon.scss';
 

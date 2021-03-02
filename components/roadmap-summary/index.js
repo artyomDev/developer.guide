@@ -27,7 +27,6 @@ const RoadmapSummary = ({ roadmap }) => {
         <MdRenderer>
           <RoadmapContent />
         </MdRenderer>
-        <SharePage title={ roadmap.description } url={ roadmap.url } />
       </Summary>
     </SummaryContainer>
   )
