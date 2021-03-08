@@ -2,11 +2,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebookSquare, faGithub, faHackerNewsSquare, faRedditSquare, faTwitter, faTwitterSquare } from '@fortawesome/free-brands-svg-icons'
 import { getContributionUrl } from "lib/guide";
 import {
-  getTwitterUrl,
-  getTwitterShareUrl,
-  getFacebookShareUrl,
-  getRedditShareUrl,
-  getHnShareUrl
+  getTwitterUrl
 } from "lib/url";
 import {
   AuthorBio,
