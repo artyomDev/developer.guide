@@ -1,5 +1,4 @@
 import { AboutHeaderWrap } from './style';
-import siteConfig from "content/site";
 
 const AboutHeader = () => (
   <AboutHeaderWrap>
