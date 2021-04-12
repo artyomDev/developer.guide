@@ -13,6 +13,8 @@ The website is built with Next.js, contains the step by step guides for develope
 
 Linux ubuntu recommended.
 If you use windows system, please install Ubuntu 20.04 LTS WSL.
+node version: v12.18.4
+npm version: v7.30
 
 ## Development
 
